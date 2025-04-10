@@ -1,2 +1,2 @@
 # GitTests
-Empty all data
+Create new commit
